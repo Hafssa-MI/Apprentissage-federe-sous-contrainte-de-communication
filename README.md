@@ -28,4 +28,4 @@ The first cells download the HAR dataset (internet needed). On a CPU, the larger
 One dataset and one small model, 3 seeds, 10% corrupted clients with non-adaptive attacks, only uploads counted in the byte budget, FedProx not implemented. The notebook lists all limitations and future work.
 
 ## Author
-_add your name_
+HAFSSA MIFTAH IDRISSI · [GitHub](https://github.com/Hafssa-MI) · [LinkedIn](https://www.linkedin.com/in/<your-profile>](https://www.linkedin.com/in/hafssa-miftah-idrissi-5537a8319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1hAi42Z6SLCeYXS5PIyPRg%3D%3D) )
